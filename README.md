@@ -1,4 +1,4 @@
-# Denoising Diffusion Probabilistic Models
+# Denoising Diffusion Probabilistic Models.
 
 Jonathan Ho, Ajay Jain, Pieter Abbeel
 
