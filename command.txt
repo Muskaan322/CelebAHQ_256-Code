@@ -1,0 +1,5 @@
+python -m scripts.run_celebahq
+
+python -m scripts.run_celebahq evaluation
+
+python -m scripts.run_celebahq train
